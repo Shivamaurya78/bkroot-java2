@@ -1,0 +1,6 @@
+What is an abstract class ?????
+Abstract class ek aisi class hoti hai jiska object directly create nahi kar sakte.
+Isme abstract methods (without body) aur normal methods dono ho sakte hain.
+Iska use abstraction achieve karne aur common behavior define karne ke liye hota hai.
+// unko inherit (extends) karn padta hei
+// child class ko abstract method implement karn padat he
