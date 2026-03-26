@@ -1,4 +1,4 @@
-package com.bkroot.java.sm.method;
+package com.java.sm.basics.method;
 
 public class Test {
 }

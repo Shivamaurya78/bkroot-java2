@@ -1,0 +1,3 @@
+Exception handling ek mechanism hai jo runtime errors ko handle karta hai
+taki program crash na ho. Java me try, catch, finally, throw aur throws keywords use hote hain.
+ Isse program robust aur fault-tolerant banta hai
