@@ -1,0 +1,24 @@
+A Linked List is a linear data structure where elements are stored in nodes,
+and each node contains data and a reference (pointer) to the next node.
+ Unlike arrays, elements are not stored in contiguous memory.
+
+ Array = continuous memory (like seats in a row)
+ ➡️ Linked List = chain (like train compartments)
+
+ Singly Linked List
+ Each node points to next node
+ Most commonly used
+ 10 → 20 → 30 → NULL
+
+ 2️⃣ Doubly Linked List
+ 👉 Each node has:
+ previous pointer
+ next pointer
+ NULL ← 10 ↔ 20 ↔ 30 → NULL
+ Advantage:
+ Can traverse both directions
+
+ 3️⃣ Circular Linked List
+ 👉 Last node points back to head
+
+ 10 → 20 → 30 → (back to 10)

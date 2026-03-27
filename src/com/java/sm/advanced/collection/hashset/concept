@@ -1,0 +1,15 @@
+HashSet Java ka ek collection class hai jo unique elements
+ store karta hai (duplicate allow nahi karta).
+
+👉 Ye Set interface ko implement karta hai aur
+internally HashMap ka use karta hai.
+
+Socho tum ek list bana rahe ho:
+
+Apple, Banana, Apple, Mango
+
+👉 HashSet me store karoge to output hoga:
+
+Apple, Banana, Mango
+
+✔ Duplicate automatically remove ho jata hai

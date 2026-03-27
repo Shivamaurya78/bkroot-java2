@@ -1,0 +1,9 @@
+HashMap Java ka ek class hai jo key-value pair store karta hai.
+RollNo -> Name
+101    -> Shiva
+102    -> Rahul
+
+👉 Yaha:
+
+Key = unique hoti hai
+Value = duplicate ho sakti hai
