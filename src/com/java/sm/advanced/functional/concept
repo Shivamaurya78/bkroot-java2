@@ -1,0 +1,9 @@
+1. Functional Interface wo intertface hota he jisme sirf 1 abstract
+method hota he
+2. optonal @FunctionalInterface ..
+3. use lamada expression
+4. use muliti\ple default , static methods allowed
+Test t = () -> {
+    System.out.println("Hello");
+};
+t.show();

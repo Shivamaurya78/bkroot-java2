@@ -1,0 +1,14 @@
+ArrayList ek dynamic array hota hai jo automatically size increase/decrease kar sakta hai.
+Dynamic size (fixed nahi hota)
+Index based access (fast retrieval – O(1))
+Duplicate values allow karta hai
+Maintains insertion order
+Non-synchronized (thread-safe nahi hota)
+🔹 5. Important Methods (Interview Focus)
+Method	Use
+add()	element add karne ke liye
+get()	element access
+set()	update
+remove()	delete
+size()	length
+contains()	check element
